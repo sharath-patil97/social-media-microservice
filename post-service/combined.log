@@ -958,3 +958,6 @@
 {"level":"info","message":"connected to rabbitmq","service":"post-service","timestamp":"2025-06-12T09:22:12.678Z"}
 {"level":"info","message":"post service running on port 3002","service":"post-service","timestamp":"2025-06-12T09:22:12.693Z"}
 {"level":"info","message":"connected to database","service":"post-service","timestamp":"2025-06-12T09:22:13.767Z"}
+{"level":"info","message":"connected to rabbitmq","service":"post-service","timestamp":"2025-06-12T12:20:00.867Z"}
+{"level":"info","message":"post service running on port 3002","service":"post-service","timestamp":"2025-06-12T12:20:00.883Z"}
+{"level":"info","message":"connected to database","service":"post-service","timestamp":"2025-06-12T12:20:01.317Z"}

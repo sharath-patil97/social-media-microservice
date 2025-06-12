@@ -25,7 +25,7 @@ mongoose.connect(process.env.MONGODB_URI)
 
 const redisClient = new Redis(process.env.REDIS_URL)
 
-console.log(process.env.REDIS_URL)
+// console.log(process.env.REDIS_URL)
 
 
 
